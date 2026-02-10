@@ -1,2 +1,2 @@
 # tyreesha-bolton-design-studio
-A compiled display of tyreesha boltons graphic design work.
+A compiled display of tyreesha bolton's graphic design work.
