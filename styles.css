@@ -4,3 +4,12 @@ body {
 background-position: right 50% bottom 125%;
  
 }
+
+.message{
+  text-align: justify;
+  text-align-last: center;
+margin:300px 280px 0px 280px;
+font-family: "Lucida Console", "Courier New", monospace;
+ font-weight: 570;
+ font-size: .8rem;
+}
