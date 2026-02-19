@@ -1,14 +1,14 @@
 body {
   background-image: url(https://i.ibb.co/qMntzWSF/impringt-logo-red.png);
    background-repeat: no-repeat;
-background-position: right 50% bottom 60%;
+background-position: right 50% bottom 36%;
  
 }
 
 .message{
   text-align: justify;
   text-align-last: center;
-margin:500px 280px 0px 280px;
+margin:400px 360px 0px 360px;
 font-family: "Lucida Console", "Courier New", monospace;
  font-weight: 570;
  font-size: .9rem;
